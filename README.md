@@ -36,6 +36,4 @@ This repo contains the codes for the paper: [Shadow detection using a cross-atte
 
 ## References
 
-[1] Dong, C., Loy, C. C., He, K., & Tang, X. (2015). Image super-resolution using deep convolutional networks. IEEE transactions on pattern analysis and machine intelligence, 38(2), 295-307.
-
-[2] Zhang, Y., Li, K., Li, K., Wang, L., Zhong, B., & Fu, Y. (2018). Image super-resolution using very deep residual channel attention networks. In Proceedings of the European conference on computer vision (ECCV) (pp. 286-301).
+[1] Hu, X., Wang, T., Fu, C. W., Jiang, Y., Wang, Q., & Heng, P. A. (2021). Revisiting shadow detection: A new benchmark dataset for complex world. IEEE Transactions on Image Processing, 30, 1925-1934.
