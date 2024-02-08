@@ -25,8 +25,8 @@ This repo contains the codes for the paper: [Shadow detection using a cross-atte
   title={Shadow detection using a cross-attentional dual-decoder network with self-supervised image reconstruction features},
   author={Ruben Fernandez-Beltran and Angélica Guzmán-Ponce and Rafael Fernandez and Jian Kang and Ginés García-Mateos},
   journal={Image and Vision Computing},
-  volume={},
-  pages={--},
+  volume={143},
+  pages={104922},
   year={2024},
   publisher={Elsevier},
   doi={10.1016/j.imavis.2024.104922}
