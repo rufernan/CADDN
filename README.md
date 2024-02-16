@@ -11,11 +11,11 @@ This repo contains the codes for the paper: [Shadow detection using a cross-atte
 
 ## Usage
 
-(comming soon)
+<!-- (comming soon) -->
 
-<!-- `./codes/create_model_regression.m` is the proposed 3D-CNN. -->
+`./codes/model.py` is the proposed CADDN model.
 
-<!-- `./codes/RUN_3dcnn.m` is a sample of the main script. -->
+`./codes/main_demo.py` is a sample of the main script.
 
 
 ## Citation
